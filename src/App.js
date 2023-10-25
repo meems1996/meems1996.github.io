@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <a href="http://localhost:3000/">
+      <a href="https://thechapterapp.com/">
       <img src="/logo192.png" alt="Your App Logo" class="logo" style={{ userSelect: 'none' }} />
       </a>
         <div style={{display: 'flex', flexDirection: 'row'}}>
