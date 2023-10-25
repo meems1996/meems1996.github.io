@@ -16,7 +16,7 @@ function App() {
             <p className='fade-in'>
               No need to be on several social media apps to talk about books. We deserve our own home - an app for talking all about books without the distractions of non book related posts on our feed!
             </p>
-            <a href="https://www.apple.com/app-store/">
+            <a href="https://muisujfym9w.typeform.com/to/hCRhoRRu">
             <button className="button-51">Request to join our beta 🐉</button>
             </a>
             <p style={{fontSize:'15px', color: '#484848'}}>We are keeping the app invite only for a limited time.</p>
